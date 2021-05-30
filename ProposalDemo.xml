@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProposalList xmlns="http://www.bbraun.com/HC/AIS/Space/AutoProgramming">
+  <Drug>
+    <DrugId>201~0.25/50$3</DrugId>
+    <DrugName>Lasix 0.25/50</DrugName>
+    <DrugShort>0.005Lasix</DrugShort>
+    <InfusionRate>0.20</InfusionRate>
+    <RateUnit>ml/h</RateUnit>
+    <Checksum>62583</Checksum>
+  </Drug>
+  <Drug>
+    <DrugId>Insulin$4</DrugId>
+    <DrugName>Insulin</DrugName>
+    <InfusionRate>0.10</InfusionRate>
+    <RateUnit>ml/h</RateUnit>
+    <Checksum>52145</Checksum>
+  </Drug>
+  <ChecksumTotal>38110</ChecksumTotal>
+</ProposalList>
